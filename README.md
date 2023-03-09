@@ -19,3 +19,4 @@ Its easy to use. just go with this instructions
 
 Yup that's it you are ready to test postman collection
 
+Postman Collection and DB backup is stored in storage folder.
