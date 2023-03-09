@@ -2,7 +2,7 @@
 
 Its easy to use. just go with this instructions
 
-- `git clone https://github.com/saddamsegwitz/aspire-loan.git`
+- `git clone https://github.com/rahoulpaliwal/loan-api-aspire.git`
 - `composer update`
 - rename the `.env.example` file as `.env`
 - set 
@@ -17,7 +17,5 @@ Its easy to use. just go with this instructions
 - `php artisan config:cache`
 - `php artisan serve`
 
-Yup that's it you are ready to test postman collection 
-
-postman collection link : https://www.getpostman.com/collections/b362b53aebcaa0272587
+Yup that's it you are ready to test postman collection
 
